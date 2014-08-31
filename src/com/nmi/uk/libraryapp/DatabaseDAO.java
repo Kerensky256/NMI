@@ -42,7 +42,10 @@ public class DatabaseDAO {
 
     public static void main(String[] args) {
         
-        // replicate this sequence in calling class.
+        //FIXME replicate this sequence in calling class.
+        // selecs statement would be used in the client to retireve data.
+        // just spits to cosnole atm to demo
+        
         createConnection();
 
         selectBooksByLibrary("Bangor");
@@ -82,8 +85,8 @@ public class DatabaseDAO {
             
             stmt.close();
         } catch (SQLException sqlExcept) {
-            // FIXME: !!! this is a workaorund for now, till I cna get the on update thing fixed.
-            //sqlExcept.printStackTrace();
+            // FIXME: !!! there is on ON UPDATE DUPLICATE KEY in derby :/ so we have an issue wiht adding duplicated entries to the link table atm.
+            sqlExcept.printStackTrace();
             
             
         }

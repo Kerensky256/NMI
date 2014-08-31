@@ -139,6 +139,8 @@ public class LibAppGUI extends javax.swing.JFrame {
             jLabel1.setText("Readin file: " + FileBrowser.filenameReturn);
             XmlParser xp = new XmlParser(FileBrowser.filenameReturn);
             xp.parseXml();
+            
+            //FIXME: after parsing we would pass the strings for the book details to DAtabaseDAO and run the inserRecords method.
 
         } else {
             // run a new file browser if we have no file name defined
