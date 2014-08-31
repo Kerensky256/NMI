@@ -3,10 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/DbUpdate.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/XmlParser.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/Book.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/DbQuery.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/DatabaseDAO.java</file>
             <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/ui/LibAppGUI.java</file>
-            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/App.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/XmlValidate.java</file>
             <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/FileBrowser.java</file>
-            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/DatabseDAO.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/AdminApp.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/Library.java</file>
+            <file>file:/C:/Users/Darren/Documents/NetBeansProjects/LibraryDesktop/src/com/nmi/uk/libraryapp/JSONToJPA.java</file>
         </group>
     </open-files>
 </project-private>
